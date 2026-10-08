@@ -1,1 +1,1 @@
-<img src="rickroll.gif" alt="Rick Astley dancing" width="100%">
+<img src="rickroll.gif" alt="Prison Mike and Rick Astley dancing" width="100%">
